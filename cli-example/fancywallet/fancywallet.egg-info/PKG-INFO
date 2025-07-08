@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: fancywallet
+Version: 0.0.0
+Requires-Dist: click
+Requires-Dist: requests
+Dynamic: requires-dist
