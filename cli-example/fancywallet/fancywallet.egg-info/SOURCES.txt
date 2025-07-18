@@ -1,3 +1,4 @@
+fancywallet.py
 setup.py
 fancywallet.egg-info/PKG-INFO
 fancywallet.egg-info/SOURCES.txt
